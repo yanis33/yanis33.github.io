@@ -1,0 +1,28 @@
+/* Ficher CSS */
+/* ma décoration de Susan Landau */
+
+h1 {
+    /* décoration de la balise h1 */
+    color: dodgerblue;
+    text-align: center;
+}
+
+h2 {
+    color: firebrick;
+    text-align: center;
+}
+
+ul {
+    /* décoration de la balise ul */
+    border: #096A09 solid 2px;
+    background: #B0F2B6;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+

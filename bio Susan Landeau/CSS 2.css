@@ -1,0 +1,23 @@
+/* Ficher CSS */
+/* ma décoration de Susan Landau */
+
+
+
+p2 {
+    text-align: center;
+}
+
+body {
+    background-image:url(hacker.jpg);
+    }
+
+h1 {
+    /* décoration de la balise h1 */
+    color: dodgerblue;
+    text-align: center;
+}
+
+h2 {
+    color: firebrick;
+    text-align: center;
+}
